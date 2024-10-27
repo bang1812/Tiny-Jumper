@@ -1,2 +1,1 @@
-# Tiny-Jumper
-Tiny Jumper
+# Tiny-jumper
